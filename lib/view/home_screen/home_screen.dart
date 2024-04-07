@@ -23,7 +23,7 @@ class HomeScreen extends StatelessWidget {
             CircleAvatar(
               radius: 18,
               backgroundImage: NetworkImage(
-                  "https://beingselfish.in/wp-content/uploads/2023/07/boys-dp10.jpg"),
+                  "https://instagram.fcok4-1.fna.fbcdn.net/v/t51.2885-19/395308835_3463668007277756_5707619813024977731_n.jpg?stp=dst-jpg_s320x320&_nc_ht=instagram.fcok4-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=E_xG2ZRp8uIAb6APSIP&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfCev8vho70dLQW76ne12yzvuYci7yLzH696Y3Y5ac22eQ&oe=66186C82&_nc_sid=8b3546"),
             ),
             SizedBox(
               width: 8,
